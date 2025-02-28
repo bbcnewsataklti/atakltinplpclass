@@ -1,41 +1,13 @@
-se-day-2-git-and-github
-
-Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-Version control is a system that tracks changes made to files over time, allowing users to easily revert back to previous versions if needed. It allows for many people to work on the same and seperate features, for their changes to be easily reviewed before merging them to the current version. 
-Describe the process of setting up a new repository on GitHub. What are the key steps, and what are some of the important decisions you must make during this process?
-Sign in to GitHub
-Create a New Repository
-Repository Configuration
-Repository Name: 
-Public: 
-Private: 
-Initialize the Repository (Optional but Recommended)
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/your-username/repository-name.git
-git push -u origin main
-Important Decisions When Setting Up a GitHub Repository
-Public vs. Private:
-Branching Strategy:
-License:
-Issue Tracking & Project Management:
-Access Control & Collaboration:
-Automated Workflows (CI/CD):
-Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
-
-Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
-
-Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
-
-How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
-
-Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
-
-Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
-
-Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
-
-Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
-
+Why is timely delivery crucial in software project management, and how can project managers ensure deadlines are met?
+How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
+Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+How can clearly defining the problem help in developing a more effective software solution?
+How would you describe your software solution in a way that captures its essence without diving into technical details?
+What are the main features or functionalities that make your software stand out?
+What data is available regarding the market size and growth potential for your software?
+How can understanding market trends inform your software’s positioning and development?
